@@ -1,6 +1,18 @@
 # cs3-wk02-codecollab
 
-### CodeCollab Requirements
+This repository provides the **working program** for this week's **CodeCollab homework assignment**. 
+
+### Instructions
+
+1. Click `FORK` to make your own copy of the repo. You do not need to edit anything in the "Create a new fork" menu that comes up, just click `Create Fork`. _Forking a repository allows you to freely experiment with changes without affecting the original project._
+
+2. Now on your own copy of the repo, click the green `<> CODE` button. Next, select the Codespaces tab and click `Create codespace on main`. _This will set up an IDE instance for you to run the program in._
+
+3. In the Codespaces IDE, follow prompts to install the `Python Extension Pack`. Now you can run the program, try to see how the code works, and experiment with it!
+   
+4. Write your **discussion post on Blackbaud** to complete the homework.
+
+### Discussion Requirements
 
 You must contribute at least **two (2) valid comments** in the Blackbaud discussion before `Friday @ 11:59PM` to earn full credit. See below for more detailed guidelines for what qualifies as an acceptable comment.
 
